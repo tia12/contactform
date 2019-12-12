@@ -18,7 +18,7 @@
   </properties>
 
   <modules>
-    <module>webap</module>
+    <module>webapp</module>
   </modules>
 
   <distributionManagement>
