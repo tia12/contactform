@@ -7,6 +7,7 @@
   <artifactId>maven-project</artifactId>
   <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
+
   <name>Maven Project</name>
   <description>Sample Maven project with a working, deployable site.</description>
   <url>http://www.example.com</url>
@@ -17,7 +18,7 @@
   </properties>
 
   <modules>
-    <module>webapp</module>
+    <module>webap</module>
   </modules>
 
   <distributionManagement>
